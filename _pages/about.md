@@ -4,7 +4,6 @@ title: "Daryl Tan's Story"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
 ---
 Hi, I’m **Daryl Tan**, a student at the **University of Oklahoma** studying **Petroleum Engineering** and **Economics**.
 
