@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "Daryl Tan's Story"
 author_profile: true
 redirect_from: 
