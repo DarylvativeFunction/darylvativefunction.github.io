@@ -7,7 +7,7 @@ author_profile: true
 Feel free to reach out if you would like to connect, collaborate, or learn more about my work.
 
 ## Email
-daryltj@ou.edu
+daryltyj@ou.edu
 
 ## GitHub
 https://github.com/DarylvativeFunction
