@@ -24,7 +24,7 @@ repository               : "DarylvativeFunction/darylvativefunction.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Daryl Yi Jin Tan"
+  name: "Daryl Yi Jin Tan"
   pronouns         : # example: "she/her"  
   bio              : "Petroleum Engineering and Economics student at the University of Oklahoma."
   location         : "Norman"
