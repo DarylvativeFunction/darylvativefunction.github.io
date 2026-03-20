@@ -5,9 +5,11 @@ author_profile: true
 redirect_from: 
   - /about/
 ---
-Hi, I’m **Daryl Tan**, a student at the **University of Oklahoma** studying **Petroleum Engineering** and **Economics**.
+Born in Malaysia, I lived in Kuala Lumpur for 18 years before attending UWC Dilijan in Armenia. There, the commitment my diverse peers and institution had towards sustainability made me think more deeply about the intersection of climate change and global inequality. I came to understand that energy is fundamental for developing economies like Malaysia to industrialize and grow. Yet this progress faces an opposing force: climate change. The extraction of hydrocarbons releases greenhouse gases like CO2, creating environmental costs that cannot be ignored. 
 
-My interests lie at the intersection of **energy systems**, **carbon management**, **engineering**, and **techno-economic analysis**. I am especially interested in how technical innovation and economic thinking can work together to solve large-scale energy and infrastructure challenges.
+By pursuing **Petroleum Engineering** and **Economics** at the **University of Oklahoma**, I aspire to design energy systems that allow economies like Malaysia to grow without the environmental trade-offs. 
+
+My interests lie particularly at the intersection of **energy systems**, **carbon management**, **engineering**, and **techno-economic analysis**. I am especially interested in how technical innovation and economic thinking can work together to solve large-scale energy and infrastructure challenges.
 
 At OU, I have been building experience across both technical and analytical work. My current interests include:
 - well integrity and cement optimization
